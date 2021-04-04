@@ -1,8 +1,8 @@
 # Meet Isaac
 
-## Expression through design and music
+I design things to improve life on a human scale.
 
 ## Projects
 
-- [Ice Keys](ice-keys.md)
-- markdown [example doc](mdExample.md)
+- [Ice Keys](projects/ice-keys.md)
+- [Covid-19 Face Shield Visors](projects/covid-visors.md)

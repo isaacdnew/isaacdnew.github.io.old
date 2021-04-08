@@ -6,11 +6,8 @@ I design things to improve life on a human scale.
 
 ## Projects
 
-### Things
-
 - [Ice Keys](projects/ice-keys.md)
 - [Covid-19 Face Shields](projects/covid-shields.md)
-
-### Music
-
-- need to add stuff here
+- Music on...
+  - [SoundCloud](https://soundcloud.com/isaacnewcomb/)
+  - Spotify (I'll be adding a link here soon)

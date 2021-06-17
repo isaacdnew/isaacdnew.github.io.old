@@ -22,6 +22,7 @@ Some of the cosmetic parts are missing or outdated, but everything that matters 
 4. The high notes are too loud compared to the low notes.
 5. The keys’ tails were too big, so I trimmed them. Now the keys don’t line up.
 6. A few keys squeak along the spring contact when pressed or released.
+7. The tuning plug on the lowest note interferes with the mouth, preventing sound.
 
 ### Solutions
 
@@ -30,7 +31,8 @@ Some of the cosmetic parts are missing or outdated, but everything that matters 
 3. Revert postvalve tab/slot position (the postvalve should slide down onto the manifold).
 4. Taper the manifold’s inside. Lots of CAD work.
 5. After reprinting the manifold and postvalves, test again to determine proper height.
-6. Rough up the spring contacts? Lubricate them?
+6. Rough up or lubricate the spring contacts.
+7. Print a short tuning plug for the lowest note.
 
 ### Questions
 

@@ -22,6 +22,21 @@ Main Issues:
 
 ![Ice Keys P2](p2/images/p2.jpg)
 
+The first playable version, also with 25 keys. Minimal casing and a better 2-tone PLA palette make for a sleek, versatile second prototype.
+
+Main issues:
+
+1. Some valves stopped closing after some time in storage, making some notes sound whether played or not.
+2. Tuning requires a steady source of air with reproducible pressure, e.g. from a bellows.
+3. While the appearance and ergonomics are much better, it still feels like a prototype. Some edges are unfinished; some mechanisms uncovered.
+
 ### [P3](p3/p3.md)
 
 ![Ice Keys P3](p3/images/p3.jpg)
+
+This is the current prototype, a work in progress. With its larger 30-key range, comprehensive case and compact action, it improves on P2 in many areas. This version will have a 3-tone color palette, sporting a translucent royal blue and clear keys on a black body.
+
+Main issues:
+
+1. Pipe sealing. The switch to PETG filament made bubbles and tiny pores more common, which surprised me because PETG has exceptional layer adhesion. In addition, I added a 180° bend to the lower pipes. That curved roof has a large porosity as well.
+2. Anticipated: Tuning. This iteration will also need a steady air source for tuning.

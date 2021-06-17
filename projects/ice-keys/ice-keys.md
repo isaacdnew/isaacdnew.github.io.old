@@ -4,7 +4,7 @@ An acoustic keyboard that sounds like pan pipes.
 
 ## Prototype Versions
 
-### [Ice Keys P1](p1/p1.md)
+### [Ice Keys P1](p1/project-notes.md)
 
 ![Ice Keys P1](p1/images/p1.jpg)
 
@@ -18,7 +18,7 @@ Main Issues:
 4. **Incorrect pipe lengths.** The model I used to determine the lengths is based on too many idealizations.
 5. **Looks.** The blue color is too pale and the off-white keys look dirty.
 
-### [Ice Keys P2](p2/p2.md)
+### [Ice Keys P2](p2/project-notes.md)
 
 ![Ice Keys P2](p2/images/p2.jpg)
 
@@ -30,7 +30,7 @@ Main issues:
 2. Tuning requires a steady source of air with reproducible pressure, e.g. from a bellows.
 3. While the appearance and ergonomics are much better, it still feels like a prototype. Some edges are unfinished; some mechanisms uncovered.
 
-### [Ice Keys P3](p3/p3.md)
+### [Ice Keys P3](p3/project-notes.md)
 
 ![Ice Keys P3](p3/images/p3.jpg)
 

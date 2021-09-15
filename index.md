@@ -2,8 +2,6 @@
 title: Isaac Newcomb
 ---
 
-# Meet Isaac
-
 I design things to improve life on a human scale.
 
 ![Isaac holding a melodica](general-images/isaac-holding-melodica.jpg)

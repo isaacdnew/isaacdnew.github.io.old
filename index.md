@@ -1,3 +1,7 @@
+---
+title: Isaac Newcomb
+---
+
 # Meet Isaac
 
 I design things to improve life on a human scale.

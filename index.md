@@ -2,9 +2,9 @@
 
 I design things to improve life on a human scale.
 
-[isaacdnew@gmail.com](mailto:isaacdnew@gmail.com) • [(518) 418-5518](tel:1-518-418-5518) • [linkedin.com/in/isaacdnew](https://www.linkedin.com/in/isaacdnew)
 ![Isaac holding a melodica](general-images/isaac-holding-melodica.jpg)
 
+[isaacdnew@gmail.com](mailto:isaacdnew@gmail.com) • [(518) 418-5518](tel:1-518-418-5518) • [linkedin.com/in/isaacdnew](https://www.linkedin.com/in/isaacdnew)
 
 ## Projects
 
